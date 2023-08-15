@@ -11,5 +11,6 @@ _Process to check the code:_
   4. store the api key in .env file of your project like this.
      **REACT_APP_RAPID_API_KEY=<your key>**
   6. run **npm run star**t to run the application .
+  7. screenshot(454) and screenshot(455) are the website images.
 
 
