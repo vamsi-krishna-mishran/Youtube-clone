@@ -9,5 +9,5 @@ _Process to check the code:_
   2. run npm install to install all the packeges listed in packeges.json
   3. create rapidapi free account .create a api key .
   4. store the api key in .env file of your project as shown below
-  **  REACT_APP_RAPID_API_KEY=<your key>**
+  5.REACT_APP_RAPID_API_KEY=<your key>
   6. run **npm run star**t to run the application .
