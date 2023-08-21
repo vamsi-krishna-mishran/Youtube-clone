@@ -6,6 +6,8 @@ techonologies used are **react js** and **its functional components.**
 
 <img src="Screenshot (454).png" alt="sample snapshot" width="300"/>
 
+<img src="Screenshot (455).png" alt="sample snapshot" width="300"/>
+
 _Process to check the code:_
   1. clone or fork the repository  and open it with visual studio code.
   2. run npm install to install all the packeges listed in packege.json
